@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png"group-title="Sport",BTSport1
+#EXTVLCOPT:http-referrer=https://olacast.live/
+https://webui.vhls.ru.com/lb/premium31/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png"group-title="Sport",BTSport2
+#EXTVLCOPT:http-referrer=https://olacast.live/
+https://webui.vhls.ru.com/lb/premium32/index.m3u8
